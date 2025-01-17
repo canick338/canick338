@@ -14,4 +14,4 @@
 - Open to discussions and contributions around **Flet**, **game server management**, and **Python automation**.
 
 📫 **How to reach me:**
-- You can contact me via Discord at **ТОВАРИЩ#3457** or by opening an issue in one of my repositories.
+- You can contact me via Discord at **canick** or by opening an issue in one of my repositories.
